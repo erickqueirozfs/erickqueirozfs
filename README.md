@@ -6,6 +6,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e atuo com **Python** 
 ---
 ### 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/erick-queiroz-fernandes-910b36254)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](queirozerick087@gmail.com)
 
 ---
 
