@@ -79,19 +79,6 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e atuo como **Engenhei
 
 <br>
 
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=erickqueirozfs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickqueirozfs&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="left">
-<img src="https://streak-stats.demolab.com/?user=erickqueirozfs&theme=tokyonight&hide_border=true" />
-</p>
-
-<br>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=100&section=footer" />
 </div>
