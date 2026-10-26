@@ -4,13 +4,13 @@
 
 </div>
 
-### Olá, eu sou o Erick
+### Olá, sou o Erick
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e atuo como **Engenheiro de IA na Petlove**, trabalhando com **Python** no desenvolvimento de aplicações **backend** e soluções com **LLMs**, além de realizar **automação de processos repetitivos** para otimizar tarefas e fluxos de trabalho.
+Formado em **Análise e Desenvolvimento de Sistemas** e atuo como **Engenheiro de IA na Petlove**, trabalhando com **Python** no desenvolvimento de aplicações **backend** e soluções com **LLMs**, além de realizar **automação de processos repetitivos** para otimizar tarefas e fluxos de trabalho.
 
 - Atualmente trabalhando como **Engenheiro de IA na Petlove**
 - Aprofundando conhecimentos em **LangChain**, **LLMs** e **análise de dados**
-- Pergunte-me sobre **Python, IA generativa/LLMs, automação (UiPath), backend, SQL**
+- Pergunte-me sobre **Python, IA generativa/LLMs, automação (UiPath, Python), backend, SQL**
 - Como me encontrar: veja os contatos abaixo
 
 <br>
